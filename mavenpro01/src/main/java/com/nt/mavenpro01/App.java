@@ -5,8 +5,8 @@ public class App
 {
 	public double sum(double a, double b)
 	{
-		double z= a+b;
-		return z;
+		double c= a+b;
+		return c;
 	}
     public static void main( String[] args )
     {
