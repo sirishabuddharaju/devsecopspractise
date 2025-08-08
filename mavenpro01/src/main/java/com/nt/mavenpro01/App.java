@@ -5,7 +5,8 @@ public class App
 {
 	public int sum(int a, int b)
 	{
-		return a+b;
+		int z= a+b;
+		return z;
 	}
     public static void main( String[] args )
     {
