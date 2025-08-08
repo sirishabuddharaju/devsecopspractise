@@ -3,9 +3,9 @@ package com.nt.mavenpro01;
 
 public class App 
 {
-	public int sum(int a, int b)
+	public double sum(double a, double b)
 	{
-		int z= a+b;
+		double z= a+b;
 		return z;
 	}
     public static void main( String[] args )
